@@ -1,0 +1,322 @@
+﻿++Solution 'PayrollApplication' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:PayrollApplication.sln
+++PayrollApplication
+i:{00000000-0000-0000-0000-000000000000}:PayrollApplication
+++Properties
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\properties\
+++References
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++App_Data
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\app_data\
+++Content
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\
+++fonts
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\fonts\
+++Report
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\report\
+++Scripts
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\scripts\
+++Styles
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\styles\
+++AddFaculty.aspx
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\addfaculty.aspx
+++AddFaculty.aspx.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\addfaculty.aspx.cs
+++AddFaculty.aspx.designer.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\addfaculty.aspx.designer.cs
+++AdminHome.aspx
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\adminhome.aspx
+++AdminHome.aspx.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\adminhome.aspx.cs
+++AdminHome.aspx.designer.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\adminhome.aspx.designer.cs
+++AdminMaster.Master
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\adminmaster.master
+++AdminMaster.Master.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\adminmaster.master.cs
+++AdminMaster.Master.designer.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\adminmaster.master.designer.cs
+++ApplyLeave.aspx
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\applyleave.aspx
+++ApplyLeave.aspx.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\applyleave.aspx.cs
+++ApplyLeave.aspx.designer.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\applyleave.aspx.designer.cs
+++FacultyHome.aspx
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\facultyhome.aspx
+++FacultyHome.aspx.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\facultyhome.aspx.cs
+++FacultyHome.aspx.designer.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\facultyhome.aspx.designer.cs
+++FacultyMaster.Master
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\facultymaster.master
+++FacultyMaster.Master.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\facultymaster.master.cs
+++FacultyMaster.Master.designer.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\facultymaster.master.designer.cs
+++header.png
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\header.png
+++LeaveApproval.aspx
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\leaveapproval.aspx
+++LeaveApproval.aspx.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\leaveapproval.aspx.cs
+++LeaveApproval.aspx.designer.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\leaveapproval.aspx.designer.cs
+++LeaveSummary.aspx
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\leavesummary.aspx
+++LeaveSummary.aspx.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\leavesummary.aspx.cs
+++LeaveSummary.aspx.designer.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\leavesummary.aspx.designer.cs
+++Login.aspx
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\login.aspx
+++Login.aspx.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\login.aspx.cs
+++Login.aspx.designer.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\login.aspx.designer.cs
+++Main.Master
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\main.master
+++ManageFaculty.aspx
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\managefaculty.aspx
+++ManageFaculty.aspx.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\managefaculty.aspx.cs
+++ManageFaculty.aspx.designer.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\managefaculty.aspx.designer.cs
+++packages.config
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\packages.config
+++Payroll.aspx
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\payroll.aspx
+++Payroll.aspx.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\payroll.aspx.cs
+++Payroll.aspx.designer.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\payroll.aspx.designer.cs
+++Salary.aspx
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\salary.aspx
+++Salary.aspx.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\salary.aspx.cs
+++Salary.aspx.designer.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\salary.aspx.designer.cs
+++SalaryDetails.aspx
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\salarydetails.aspx
+++SalaryDetails.aspx.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\salarydetails.aspx.cs
+++SalaryDetails.aspx.designer.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\salarydetails.aspx.designer.cs
+++Web.config
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\web.config
+++AssemblyInfo.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\properties\assemblyinfo.cs
+++BouncyCastle.Crypto
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++CW_TestLibrary
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++itext.barcodes
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++itext.commons
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++itext.forms
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++itext.html2pdf
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++itext.io
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++itext.kernel
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++itext.layout
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++itext.pdfa
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++itext.sign
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++itext.styledxmlparser
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++itext.svg
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++LightInject
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++Microsoft.Bcl.AsyncInterfaces
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++Microsoft.CSharp
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++Microsoft.Extensions.DependencyInjection
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++Microsoft.Extensions.DependencyInjection.Abstractions
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++Microsoft.Extensions.Logging
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++Microsoft.Extensions.Logging.Abstractions
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++Microsoft.Extensions.Options
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++Microsoft.Extensions.Primitives
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++RevitInteractionContracts
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System.Buffers
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System.ComponentModel.DataAnnotations
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System.Configuration
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System.Core
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System.Data
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System.Data.DataSetExtensions
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System.Diagnostics.DiagnosticSource
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System.Drawing
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System.EnterpriseServices
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System.Memory
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System.Numerics
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System.Numerics.Vectors
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System.Runtime.CompilerServices.Unsafe
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System.Threading.Tasks.Extensions
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System.ValueTuple
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System.Web
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System.Web.ApplicationServices
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System.Web.DynamicData
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System.Web.Entity
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System.Web.Extensions
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System.Web.Services
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System.Xml
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++System.Xml.Linq
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:
+++EmployeeDB.mdf
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\app_data\employeedb.mdf
+++bootstrap-grid.css
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-grid.css
+++bootstrap-grid.css.map
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-grid.min.css
+++bootstrap-grid.min.css.map
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-grid.rtl.css
+++bootstrap-grid.rtl.css.map
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-grid.rtl.min.css
+++bootstrap-grid.rtl.min.css.map
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.css
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-reboot.css
+++bootstrap-reboot.css.map
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-reboot.min.css
+++bootstrap-reboot.min.css.map
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-reboot.rtl.css
+++bootstrap-reboot.rtl.css.map
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-reboot.rtl.min.css
+++bootstrap-reboot.rtl.min.css.map
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.css
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-utilities.css
+++bootstrap-utilities.css.map
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-utilities.min.css
+++bootstrap-utilities.min.css.map
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-utilities.rtl.css
+++bootstrap-utilities.rtl.css.map
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-utilities.rtl.min.css
+++bootstrap-utilities.rtl.min.css.map
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap-utilities.rtl.min.css.map
+++bootstrap.css
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap.css
+++bootstrap.css.map
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap.css.map
+++bootstrap.min.css
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap.min.css.map
+++bootstrap.rtl.css
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap.rtl.css
+++bootstrap.rtl.css.map
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap.rtl.min.css
+++bootstrap.rtl.min.css.map
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\bootstrap.rtl.min.css.map
+++font-awesome.css
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\font-awesome.css
+++font-awesome.min.css
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\content\font-awesome.min.css
+++fontawesome-webfont.eot
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\fonts\fontawesome-webfont.eot
+++fontawesome-webfont.svg
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\fonts\fontawesome-webfont.svg
+++fontawesome-webfont.ttf
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\fonts\fontawesome-webfont.ttf
+++fontawesome-webfont.woff
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\fonts\fontawesome-webfont.woff
+++fontawesome-webfont.woff2
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\fonts\fontawesome-webfont.woff2
+++FontAwesome.otf
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\fonts\fontawesome.otf
+++bootstrap.bundle.js
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\scripts\bootstrap.bundle.js
+++bootstrap.bundle.js.map
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\scripts\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\scripts\bootstrap.bundle.min.js
+++bootstrap.bundle.min.js.map
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\scripts\bootstrap.bundle.min.js.map
+++bootstrap.esm.js
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\scripts\bootstrap.esm.js
+++bootstrap.esm.js.map
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\scripts\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\scripts\bootstrap.esm.min.js
+++bootstrap.esm.min.js.map
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\scripts\bootstrap.esm.min.js.map
+++bootstrap.js
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\scripts\bootstrap.js
+++bootstrap.js.map
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\scripts\bootstrap.js.map
+++bootstrap.min.js
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\scripts\bootstrap.min.js
+++bootstrap.min.js.map
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\scripts\bootstrap.min.js.map
+++login.css
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\styles\login.css
+++Main.Master.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\main.master.cs
+++Main.Master.designer.cs
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\main.master.designer.cs
+++Web.Debug.config
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\web.debug.config
+++Web.Release.config
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\web.release.config
+++EmployeeDB_log.ldf
+i:{9e88fc80-07dc-4f5c-89f6-82f39e56cc7f}:e:\ragul clg works\6th sem\c#\project\payrollapplication\app_data\employeedb_log.ldf

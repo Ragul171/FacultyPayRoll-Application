@@ -1,0 +1,61 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdminMaster.master.cs" Inherits="PayrollApplication.AdminMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    
+    <link href="./Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="./Content/font-awesome.min.css" rel="stylesheet" />
+    <script href="./Scripts/bootstrap.min.js" type="text/javascript">
+            
+    </script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:Image ID="headerimg" runat="server" ImageUrl="header.png" Width="100%" Height="200px"/>
+        </div>
+        <div>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" 
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle Navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <div class="navbar-nav me-auto mb-2 mb-lg-0">
+               
+                    <a class="nav-item nav-link <%=(System.IO.Path.GetFileName(Request.PhysicalPath).ToString().ToUpper() == "ADMINHOME.ASPX" ? "active" : " ")%>" href="AdminHome.aspx">Home</a>
+                    <a class="nav-item nav-link <%=(System.IO.Path.GetFileName(Request.PhysicalPath).ToString().ToUpper() == "MANAGEDEPARTMENT.ASPX" ? "active" : " ")%>" href="ManageDepartment.aspx">Manage Department</a>
+                    <a class="nav-item nav-link <%=(System.IO.Path.GetFileName(Request.PhysicalPath).ToString().ToUpper() == "MANAGEDESIGNATION.ASPX" ? "active" : " ")%>" href="ManageDesignation.aspx">Manage Designation</a>
+                    <a class="nav-item nav-link <%=(System.IO.Path.GetFileName(Request.PhysicalPath).ToString().ToUpper() == "ADDFACULTY.ASPX" ? "active" : " ")%>" href="AddFaculty.aspx">Add Faculty</a>
+                
+                    <a class="nav-item nav-link <%=(System.IO.Path.GetFileName(Request.PhysicalPath).ToString().ToUpper() == "MANAGEFACULTY.ASPX" ? "active" : " ")%>" href="ManageFaculty.aspx">Manage Faculty</a>
+                
+                
+                    <a class="nav-item nav-link <%=(System.IO.Path.GetFileName(Request.PhysicalPath).ToString().ToUpper() == "SALARY.ASPX" ? "active" : " ")%>" href="Salary.aspx">Salary</a>
+                
+                
+                    <a class="nav-item nav-link <%=(System.IO.Path.GetFileName(Request.PhysicalPath).ToString().ToUpper() == "LEAVEAPPROVAL.ASPX" ? "active" : " ")%>" href="LeaveApproval.aspx">Leave Approvals</a>
+                
+                    <asp:LinkButton ID="logout" runat="server" class="nav-item nav-link " OnClick="logout_Click" >Logout</asp:LinkButton>
+                
+                </div>
+            </div>
+        </nav>
+        </div>
+        <div style="min-height:300px">
+            <asp:ContentPlaceHolder ID="ContentPlaceholder1" runat="server">
+
+            </asp:ContentPlaceHolder>
+        </div>
+        <footer>
+            <p class="text-center"> &copy All rights Reserved</p>
+        </footer>
+    </form>
+</body>
+</html>
